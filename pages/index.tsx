@@ -52,7 +52,7 @@ export default function Home() {
       </main>
       <footer>
         <p className="w-full text-center -mt-10">
-          Designed by <a href="http://frontendmentor.com/">FRONTENDMENTOR</a>, Coded by <a href="https://github.com/JamesRomero2" className="myName">JAMES ROMERO</a>
+          Designed by <a href="http://frontendmentor.com/" className="font-bold">FRONTENDMENTOR</a>, Coded by <a href="https://github.com/JamesRomero2" className="myName font-bold">JAMES ROMERO</a>
         </p>
       </footer>
     </>
