@@ -20,8 +20,11 @@ html {
 body {
   background-color: var(--lightGray);
 }
-.card, .myName {
+.card {
   background-color: rgb(43, 125, 250);
+}
+.myName {
+  color: rgb(43, 125, 250);
 }
 .cardNormalText {
   color: var(--lightGray);
