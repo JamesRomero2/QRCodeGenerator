@@ -20,7 +20,7 @@ html {
 body {
   background-color: var(--lightGray);
 }
-.card {
+.card, .myName {
   background-color: rgb(43, 125, 250);
 }
 .cardNormalText {
